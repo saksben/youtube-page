@@ -2,7 +2,7 @@ body {
     color: white;
     font-family: sans-serif;
     width: 100vw;
-    background-color: #212121;
+    background-color: #1a1a1a;
 
 }
 
@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333333;
+    background-color: #262626;
 }
 
 .nav-icons {
@@ -42,14 +42,14 @@ body {
 
 #search-input {
     width: 100%;
-    border: solid 1px #4d4d4d;
-    background-color: #212121;
+    border: solid 1px #333333;
+    background-color: #1a1a1a;
     padding-left: 15px;
 }
 
 #search-button-box {
     width: 80px;
-    background-color: #4d4d4d;
+    background-color: #333333;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61,7 +61,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #4d4d4d;
+    background-color: #333333;
     border: none;
 }
 
@@ -230,7 +230,7 @@ form {
     width: 95%;
     height: 25px;
     margin-left: 20px;
-    background-color: #212121;
+    background-color: #1a1a1a;
     border: none;
     border-bottom: solid #333333
 }
@@ -285,13 +285,13 @@ form {
     font-size: 12px;
     border-radius: 20px;
     padding: 10px;
-    background-color: #4d4d4d;
+    background-color: #333333;
     margin-bottom: 15px;
 }
 
 #rec-all {
     background-color: white;
-    color: #212121;
+    color: #333333;
     width: 30px;
     text-align: center;
 }
